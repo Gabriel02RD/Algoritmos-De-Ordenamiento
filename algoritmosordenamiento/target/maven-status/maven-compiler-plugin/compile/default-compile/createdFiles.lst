@@ -1,0 +1,8 @@
+com\mycompany\algoritmosordenamiento\InsertionSort.class
+com\mycompany\algoritmosordenamiento\BubbleSort.class
+com\mycompany\algoritmosordenamiento\QuickSort.class
+com\mycompany\algoritmosordenamiento\ShellSort.class
+com\mycompany\algoritmosordenamiento\Main.class
+com\mycompany\algoritmosordenamiento\SelectionSort.class
+com\mycompany\algoritmosordenamiento\MergeSort.class
+com\mycompany\algoritmosordenamiento\RadixSort.class
